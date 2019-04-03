@@ -1,3 +1,5 @@
+### Overview
+Python based Super Mario game which runs on terminal without any python library except for colorama.
 ### CONTROLS
 * w for jump
 * a for moving back

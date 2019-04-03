@@ -1,4 +1,4 @@
-###CONTROLS
+### CONTROLS
 * w for jump
 * a for moving back
 * d for moving forward
